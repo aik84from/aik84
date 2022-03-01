@@ -1,0 +1,34 @@
+{
+  "name": "aik84",
+  "version": "0.0.1",
+  "author": "Kalinin Alexandr <aik84from@gmail.com> (https://github.com/aik84from)",
+  "description": "This library provides various functions for common tasks like random number generation, descriptive statistics, normalization, factorial, sigmoid, kinetic energy, Euclidean distance and Manhattan distance.",
+  "keywords": [
+    "descriptive",
+    "math",
+    "factorial",
+    "euclidean",
+    "manhattan",
+    "distance",
+    "sigmoid",
+    "kinetic",
+    "normalization",
+    "random",
+    "shuffle",
+    "statistics"
+  ],
+  "main": "./aik84.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aik84from/aik84.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
